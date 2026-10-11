@@ -74,4 +74,4 @@ On Windows, activate with `.venv\Scripts\activate`. Downloads require internet a
 
 The notebook runner executes both notebooks with fresh kernels in the active Python environment. You can also open them interactively with Jupyter. `src/analysis.py` holds shared analysis functions, `scripts/` rebuilds outputs, `reports/` contains small auditable result tables, and `figures/` contains the displayed charts. Large raw files and processed tables are ignored; charts, reports, and executed notebooks are committed.
 
-See [data provenance](data/README.md), the [technical findings](reports/findings.md), and [portfolio and resume copy](docs/portfolio-resume-copy.md).
+For supporting details, see the [data provenance](data/README.md), [technical findings](reports/findings.md), and [validation report](reports/validation.md).
