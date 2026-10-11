@@ -1,0 +1,11 @@
+UnitCode,Year,RecreationVisits,MonthsReported,CompleteYear,FullName,ParkName,Designation,States,Latitude,Longitude
+BLRI,2025,16533753,12,True,Blue Ridge Parkway,Blue Ridge,Parkway,"NC,VA",35.5657195274,-82.486484587
+GOGA,2025,15748676,12,True,Golden Gate National Recreation Area,Golden Gate,National Recreation Area,CA,37.85982543,-122.6007386
+GRSM,2025,11527939,12,True,Great Smoky Mountains National Park,Great Smoky Mountains,National Park,"NC,TN",35.60116374,-83.50818326
+NATR,2025,7994783,12,True,Natchez Trace Parkway,Natchez Trace,Parkway,"AL,MS,TN",33.78002293,-89.03092439
+LINC,2025,7743295,12,True,Lincoln Memorial,Lincoln Memorial,,DC,38.88927229,-77.05017778
+GATE,2025,7696939,12,True,Gateway National Recreation Area,Gateway,National Recreation Area,"NY,NJ",40.56536246,-73.9171087
+GUIS,2025,7576923,12,True,Gulf Islands National Seashore,Gulf Islands,National Seashore,"FL,MS",30.3211,-87.2304
+GWMP,2025,6732932,12,True,George Washington Memorial Parkway,George Washington,Memorial Parkway,"DC,MD,VA",38.9628,-77.1495
+APPA,2025,6215118,12,True,Appalachian National Scenic Trail,Appalachian,National Scenic Trail,"CT,GA,MA,MD,ME,NC,NH,NJ,NY,PA,TN,VA,VT,WV",40.41029575,-76.4337548
+LAKE,2025,6135586,12,True,Lake Mead National Recreation Area,Lake Mead,National Recreation Area,"AZ,NV",35.96622528,-114.3469067

@@ -1,0 +1,26 @@
+{
+  "Main_Data.csv": {
+    "url": "https://irma.nps.gov/DataStore/DownloadFile/756959?Reference=2317666",
+    "retrieved_utc": "2026-10-11T04:24:08.812240+00:00",
+    "bytes": 72212002,
+    "sha256": "284ab33b15e9a817948cba4663ed33748ba24dbbc36b750be2b2cfbb662fe912"
+  },
+  "Main_State_Data.csv": {
+    "url": "https://irma.nps.gov/DataStore/DownloadFile/756960?Reference=2317666",
+    "retrieved_utc": "2026-10-11T04:24:10.303325+00:00",
+    "bytes": 22128458,
+    "sha256": "b9cf7e9a09522ce92a7632ce2141f3922a83be943c37225d85fbc64b231299a1"
+  },
+  "NPS_VUStats_Data_2025_metadata.xml": {
+    "url": "https://irma.nps.gov/DataStore/DownloadFile/756961?Reference=2317666",
+    "retrieved_utc": "2026-10-11T04:24:10.734533+00:00",
+    "bytes": 220524,
+    "sha256": "4b60b82f15cf83e09ac98a907960a40cb8d5c9bfd520b8949c4438eae7f16806"
+  },
+  "nps_parks_api.json": {
+    "url": "https://developer.nps.gov/api/v1/parks?limit=500&api_key=DEMO_KEY",
+    "retrieved_utc": "2026-10-11T04:24:21.625758+00:00",
+    "bytes": 3933438,
+    "sha256": "ef9d7c1549ea0fa49111d1cb8b102ef54b536c8ddb8077eb3ec90b3e36a9a500"
+  }
+}

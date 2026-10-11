@@ -1,0 +1,23 @@
+{
+  "valid_monthly_records": 193692,
+  "historical_codes": 406,
+  "incomplete_unit_years": 15,
+  "recent_cohort_units": 394,
+  "unmatched_recent_codes": [
+    "FOCA",
+    "JEFM",
+    "JODR",
+    "KICA",
+    "LACH",
+    "NCPC",
+    "NCPE",
+    "OBRI",
+    "PERL",
+    "PRPA",
+    "ROLA",
+    "SEQU"
+  ],
+  "model_units": 367,
+  "recent_zero_units": 0,
+  "latest_complete": true
+}
