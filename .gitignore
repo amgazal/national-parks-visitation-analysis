@@ -1,0 +1,10 @@
+data/raw/*.csv
+data/raw/*.json
+data/raw/*.xml
+data/processed/*.csv
+data/processed/*.parquet
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.pyc
